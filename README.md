@@ -1,7 +1,3 @@
-Thank you for letting me know! Here’s an updated version of the `README.md` file tailored to using **Flutter** for the frontend and **Firebase** as the backend.
-
----
-
 # House Prediction App
 
 Welcome to the **House Prediction App**! This Flutter app leverages Firebase to provide real-time house price predictions based on various input features, aimed at helping users make informed real estate decisions.
