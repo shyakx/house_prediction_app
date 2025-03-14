@@ -68,7 +68,8 @@ The House Prediction App is designed to estimate the prices of properties based 
 
 ## Screenshots
 
-*(Add images or screenshots of the app’s interface here)*
+![image](https://github.com/user-attachments/assets/2bc81257-3dbd-449e-89af-09bbce4a61fa)
+
 
 ## Future Improvements
 
